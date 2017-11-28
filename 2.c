@@ -1,5 +1,5 @@
 // Reszty potêg 2 modulo n --- zmiana
-// Data   : 4.04.2008 --- zmiana 2
+// Data   : 4.04.2008 --- zmiana 3
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
 
