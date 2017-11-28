@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-// Test Millera-Rabina --- zmiana++
-=======
-// Test Millera-Rabina --- zmiana--
->>>>>>> f5f6393eb5bfef76af58376aa3f871ffae7b00ba
+// Test Millera-Rabina --- zmiana
 // Data   : 6.04.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
@@ -30,7 +26,7 @@ ulong Losuj(ulong a,ulong b)
   return a + (w % (b - a));
 }
 
-// Funkcja mno¿y a i b mod n
+// Funkcja mnoÂ¿y a i b mod n
 //--------------------------
 ulong MnozModulo(ulong a, ulong b, ulong n)
 {
