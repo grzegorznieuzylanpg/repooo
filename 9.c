@@ -1,4 +1,4 @@
-// Test Millera-Rabina --- zmiana--
+﻿// Test Millera-Rabina --- zmiana--
 // Data   : 6.04.2008 --- zmiana 2
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
@@ -21,7 +21,7 @@ ulong Losuj(ulong a,ulong b)
   for(i = 1; i <= 8; i++)
   {
     w <<= 8;
-    w |= rand() % 256;
+    w |= rand() % 256;dfsdf
   }
   return a + (w % (b - a));
 }
