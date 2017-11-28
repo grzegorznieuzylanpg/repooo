@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Test Millera-Rabina --- zmiana++
+=======
+// Test Millera-Rabina --- zmiana--
+>>>>>>> f5f6393eb5bfef76af58376aa3f871ffae7b00ba
 // Data   : 6.04.2008 --- zmiana 2
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
