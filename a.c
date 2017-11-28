@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+int zmienna=0;
  
 main()
 {
@@ -11,3 +13,4 @@ main()
  
    return 0;
 }
+
