@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // Reszty potêg 2 modulo n --- zmiana
 // Data   : 4.04.2008 --- zmiana 33
+=======
+// Reszty potêg 2 modulo n --- zmianaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+// Data   : 4.04.2008 --- zmiana 2
+>>>>>>> 52ffae70ae4f0adb97339dbbb1be7814559cb328
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
 
