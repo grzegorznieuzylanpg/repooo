@@ -12,7 +12,7 @@ typedef unsigned long long ulong;
 
 // Funkcja mno¿y a i b mod n
 //--------------------------
-ulong MnozModulo(ulong a, ulong b, ulong n)
+ulong MnozModulo(ulong a, ulong b, ulong nssasdasd)
 {
   ulong m,w;
 
