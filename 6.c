@@ -1,4 +1,4 @@
-// NWW --- zmiana
+// NWW --- zmiana 1
 // Data   : 2.04.2008 --- zmiana 2
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
