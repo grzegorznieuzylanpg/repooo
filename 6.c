@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
   unsigned long long a,b,t,ab;
-
+asdasdsd
   cin >> a >> b;
   ab = a * b;
   while(b)
