@@ -24,7 +24,7 @@ void Fermat(unsigned int p)
       m = x + y;
       n = x - y;
       if(n == 1) break;
-      Fermat(m);
+      Fermat(m);asddsdsas
       Fermat(n);
       return;
     }
