@@ -1,5 +1,5 @@
 // Metoda Fermata --- zmiana
-// Data   : 27.03.2008 --- zmiana 2
+// Data   : 27.03.2008 --- zmiana 3
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
 
