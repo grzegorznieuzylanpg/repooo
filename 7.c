@@ -1,4 +1,4 @@
-// Metoda Fermata --- zmiana
+// Metoda Fermata --- zmiana 609
 // Data   : 27.03.2008 --- zmiana 4
 // (C)2012 mgr Jerzy Wa³aszek
 //----------------------------
