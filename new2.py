@@ -8,7 +8,7 @@ import sys
 # Define your API information
 
 API_USER = "your_api_username"
-API_KEY = "your_api_key"
+API_KEY = "your_api_keyyyy"
 
 b = bitlyapi.BitLy(API_USER, API_KEY)
 
