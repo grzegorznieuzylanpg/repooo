@@ -1,6 +1,6 @@
 // NWW --- zmiana 1
 // Data   : 2.04.2008 --- zmiana 11
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-  unsigned long long a,b,t,ab;
+  unsigned long long a,b,t,ab,xxdddd;
 
   cin >> a >> b;
   ab = a * b;
