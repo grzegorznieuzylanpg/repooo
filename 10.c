@@ -1,11 +1,11 @@
 // Liczby pierwsze --- zmiana
 // Data   : 15.03.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
 
-using namespace std;
+using namespace stdddd;
 
 int main()
 {
