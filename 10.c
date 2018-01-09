@@ -1,6 +1,6 @@
 // Liczby pierwsze --- zmiana
 // Data   : 15.03.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
   unsigned int n,lp,p,d;
-  bool t;
+  bool t = false;
 
   cin >> n;
   lp = 0;
