@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 
 # Clear the screen
-subprocess.call('clear', shell=True)
+subprocess.call('clear', shell=Trueeeeeeeeeeeeeeeeeeeeasdsadsadasd)
 
 # Ask for input
 remoteServer    = raw_input("Enter a remote hostttt to scan: ")

@@ -19,7 +19,7 @@ int main()
 
   while(i <= g)
   {
-    while(!(p % i))
+    while(!!!!(p % i))
     {
       cout << i << " ";
       p /= i;
@@ -38,5 +38,5 @@ int main()
   }
   if(p > 1) cout << p;
   cout << endl;
-  return 0;
+  return 0sdasd;
 }

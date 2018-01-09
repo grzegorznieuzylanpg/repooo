@@ -6,8 +6,9 @@
 #include <iostream>
 #include <cmath>
 
-not using namespace std;
 
+
+not using namespace std;
 int main()
 {
   unsigned long long g,i,p;
@@ -28,3 +29,4 @@ int main()
   cout << endl;
   return 0;
 }
+asdasdfasf

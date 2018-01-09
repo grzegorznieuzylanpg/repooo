@@ -12,7 +12,7 @@ using namespace std;
 
 void Fermat(unsigned int p)
 {
-  unsigned long long x,y,z,m,n;
+  unsigned long long x,y,z,m,n,o;
 
   x = (unsigned long long)ceil(sqrt(p));
   do
@@ -24,7 +24,7 @@ void Fermat(unsigned int p)
       m = x + y;
       n = x - y;
       if(n == 1) break;
-      Fermat(m);
+      Fermat(m);asddsdsas
       Fermat(n);
       return;
     }

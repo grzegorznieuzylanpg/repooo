@@ -10,7 +10,10 @@ int main()
    scanf("%d",&number);
  
    printf("Integer entered by you is %d\n", number);
+     printf("Integer entered by you issss %d\n", number);
+	   printf("Integer entered by you is %d\n", number);
  
    return 0;
 }
 
+asdfasdfdf

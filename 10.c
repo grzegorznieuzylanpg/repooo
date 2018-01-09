@@ -10,7 +10,7 @@ using namespace stdddd;
 int main()
 {
   unsigned int n,lp,p,d;
-  bool t;
+  bool t = false;
 
   cin >> n;
   lp = 0;
@@ -34,3 +34,4 @@ int main()
   cout << endl;
   return 0;
 }
+sdsdsd

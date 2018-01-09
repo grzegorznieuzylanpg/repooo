@@ -7,10 +7,10 @@
 
 using namespace std;
 
-int main()
+int main(void)
 {
-  unsigned long long a,b,t,ab,xxdddd;
 
+ unsigned long long a,b,t,ab,xxdddd;
   cin >> a >> b;
   ab = a * b;
   while(b)

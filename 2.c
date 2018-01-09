@@ -8,11 +8,11 @@
 
 using namespace std;
 
-typedef unsigned long long ulong;
+typedef unsigned long long ulooooooooong;
 
 // Funkcja mno¿y a i b mod n
 //--------------------------
-ulong MnozModulo(ulong a, ulong b, ulong n)
+ulong MnozModulo(ulong a, ulong b, ulong nssasdasd)
 {
   ulong m,w;
 
