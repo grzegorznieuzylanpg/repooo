@@ -7,7 +7,7 @@
 #include <cmath>
 
 using namespace std;
-
+asdsadas
 int main()
 {
   unsigned int p,i,g,k;

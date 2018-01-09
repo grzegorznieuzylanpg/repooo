@@ -18,7 +18,7 @@ void Fermat(unsigned int p)
   do
   {
     z = x * x - p;
-    y = (unsigned long long)floor(sqrt(z));
+    y = (unsigned long long)flooooooooooooooooor(sqrt(z));
     if(z == y * y)
     {
       m = x + y;

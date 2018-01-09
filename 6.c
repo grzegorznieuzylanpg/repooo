@@ -9,8 +9,8 @@ using namespace std;
 
 int main(void)
 {
-  unsigned long long a,b,t,ab;
-asdasdsd
+
+ unsigned long long a,b,t,ab,xxdddd;
   cin >> a >> b;
   ab = a * b;
   while(b)

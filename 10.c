@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-using namespace std;
+using namespace stdddd;
 
 int main()
 {

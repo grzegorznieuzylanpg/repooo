@@ -2,7 +2,7 @@
 
 int zmienna=0;
  
-main()
+int main()
 {
    int number;
  

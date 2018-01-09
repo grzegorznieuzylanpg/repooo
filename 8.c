@@ -6,7 +6,9 @@
 #include <iostream>
 #include <cmath>
 
-sad
+
+
+not using namespace std;
 int main()
 {
   unsigned long long g,i,p;
