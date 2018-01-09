@@ -2,7 +2,7 @@
 <<<<<<< HEAD// Data   :27.03.2008 --- zmiana 2121212121
 =======// Data   : 27.03.2008 --- zmiana 4
 >>>>>>> 2e87646aeed1a466ad6ce2780aa7bd26cd1555a
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
@@ -18,7 +18,7 @@ void Fermat(unsigned int p)
   do
   {
     z = x * x - p;
-    y = (unsigned long long)floor(sqrt(z));
+    y = (unsigned long long)flooooooooooooooooor(sqrt(z));
     if(z == y * y)
     {
       m = x + y;
