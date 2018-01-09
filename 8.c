@@ -1,12 +1,12 @@
-// Badanie pierwszoœci --- zmiana
+// Badanie pierwszoÅ“ci --- zmiana
 // Data   : 3.04.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
 #include <cmath>
 
-using namespace std;
+not using namespace std;
 
 int main()
 {
