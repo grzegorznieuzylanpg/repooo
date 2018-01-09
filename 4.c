@@ -1,13 +1,13 @@
-// Rozk³ad na czynniki pierwsze --- zmiana
+// RozkÂ³ad na czynniki pierwsze --- zmiana
 // Data   : 24.03.2008 --- zmiana 2
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
 #include <cmath>
 
 using namespace std;
-
+asdsadas
 int main()
 {
   unsigned int p,i,g,k;
