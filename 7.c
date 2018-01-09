@@ -2,7 +2,7 @@
 <<<<<<< HEAD// Data   :27.03.2008 --- zmiana 2121212121
 =======// Data   : 27.03.2008 --- zmiana 4
 >>>>>>> 2e87646aeed1a466ad6ce2780aa7bd26cd1555a
-// (C)2012 mgr Jerzy Wa³aszek
+// (C)2012 mgr Jerzy WaÂ³aszek
 //----------------------------
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void Fermat(unsigned int p)
 {
-  unsigned long long x,y,z,m,n;
+  unsigned long long x,y,z,m,n,o;
 
   x = (unsigned long long)ceil(sqrt(p));
   do
