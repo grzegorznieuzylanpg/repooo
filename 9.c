@@ -9,7 +9,7 @@
 
 using namespace std;
 
-typedef unsigned long long ulong;
+typedef unsigned long long uuuulong;
 
 // 64 bitowy generator pseudolosowy
 //---------------------------------
